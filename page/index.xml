@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on Tracing Logs</title>
+        <link>https://example.com/page/</link>
+        <description>Recent content in Pages on Tracing Logs</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <lastBuildDate>Fri, 03 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>About</title>
+        <link>https://example.com/about/</link>
+        <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/about/</guid>
+        <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Hey there 👋&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m Francisco, a 24-year-old Machine Learning Engineer (@ML6) based in Amsterdam. While currently based in this vibrant city, my roots trace back to the north of Portugal (Porto) - land of the good port wine, francesinha and more.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.com/about/porto.png&#34;
+	width=&#34;932&#34;
+	height=&#34;485&#34;
+	srcset=&#34;https://example.com/about/porto_hua57ba6fe403635a86a0b3b6831d8c87d_696169_480x0_resize_box_3.png 480w, https://example.com/about/porto_hua57ba6fe403635a86a0b3b6831d8c87d_696169_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Douro rive, D. Luís bridge and vyneyards in the Douro valley.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;192&#34;
+		data-flex-basis=&#34;461px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;I hold a bachelor and master&amp;rsquo;s degree in Electrical and Computers Engineering from the University of Porto (where I majored in Robotics and Automation) and a second master&amp;rsquo;s in Data Science from the University of Amsterdam.&lt;/p&gt;
+&lt;p&gt;Beyond my formal education, my interests are vast and varied. Here&amp;rsquo;s a glance into what I&amp;rsquo;m passionate about:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;the nuances of software sesign, distributed systems, and pure programming.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;advancements in machine learning, more specifically computer vision and structured data.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;the domain of robotics and automation.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;navigating the intersections of tech and business strategy.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;financial markets&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;on a more personal note, everything from productivity, self-development, and career insights to sports, and of course, reading and writing.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;this-blog&#34;&gt;This Blog&lt;/h2&gt;
+&lt;p&gt;The essence of this blog? It serves as a space to pen down my musings and explorations. It&amp;rsquo;s where I unpack, structure, and share reflections on all the above and more.&lt;/p&gt;
+&lt;p&gt;Whether you share these interests or are here out of sheer curiosity, I&amp;rsquo;m pleased to have you along for the ride. 🚀🤗&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Archives</title>
+        <link>https://example.com/archives/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>https://example.com/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
